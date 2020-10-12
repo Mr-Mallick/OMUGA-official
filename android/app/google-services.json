@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "129391402887",
+    "firebase_url": "https://omuga-fd633.firebaseio.com",
+    "project_id": "omuga-fd633",
+    "storage_bucket": "omuga-fd633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129391402887:android:467678fab05686af97bd22",
+        "android_client_info": {
+          "package_name": "com.beaston.omuga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129391402887-3rbrdesm6hjtle7an9iggp6cevv39q1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNOlhj3RcL-xkKFqiIxkEcMCOk3HE3THE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129391402887-3rbrdesm6hjtle7an9iggp6cevv39q1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
